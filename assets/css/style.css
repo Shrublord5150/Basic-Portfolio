@@ -98,7 +98,8 @@ li {
     background-color: #ffffff;
     width: 910px;
     height: 500px;
-    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
     
 }
 
@@ -116,7 +117,7 @@ li {
     background-color: #4aaaa5;
     color: white;
     font-size: 18px;
-    position: absolute;
+    position: relative;
     left: 0px;
     bottom: 4px;
 
